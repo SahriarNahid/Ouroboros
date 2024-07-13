@@ -1,4 +1,6 @@
 # Ouroboros
 
-A Flutter Projecct
-Bal er project kortesi
+A Flutter Project
+
+
+mara khete aschi
