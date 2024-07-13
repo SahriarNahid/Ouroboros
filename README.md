@@ -1,4 +1,7 @@
 # Ouroboros
 
-A Flutter Projecct
-Bal er project kortesi
+A Flutter Project
+
+bal er project
+
+tempo branch
